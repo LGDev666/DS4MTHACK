@@ -64,24 +64,6 @@
 
 ---
 
-## 🧭 Project Structure
-
-DS4MTHACK/
-├── MainForm.cs // Core logic and user interface
-├── AntiDetection.cs // Input protection and stealth layer
-├── InputMasker.cs // Key masking to suppress system conflicts
-├── FakerInputWrapper.cs // Native DLL wrapper for virtual device communication
-├── StubLoader.cpp // PE header sanitizer and DLL bootstrap loader
-├── macros/ // Macro profiles (.txt)
-├── config.xml // Button preset storage
-├── macro_config.xml // Macro bindings
-├── macro_sets.xml // Macro set profiles
-
-yaml
-Copiar
-Editar
-
----
 
 ## 🧷 Disclaimer
 
