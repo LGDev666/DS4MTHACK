@@ -1,0 +1,15 @@
+echo "bin/
+obj/
+.vscode/
+*.user
+*.suo
+*.pdb
+*.cache
+*.log
+*.tmp
+*.db
+.DS_Store
+Thumbs.db
+" > .gitignore
+echo .vs/ >> .gitignore
+

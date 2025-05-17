@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mrkan\\source\\repos\\DS4MTHACK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81D79143-6C65-47D8-AD09-796F8A012DFC}|DS4MTHACK\\DS4MTHACK.csproj|c:\\users\\mrkan\\source\\repos\\ds4mthack\\ds4mthack\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D79143-6C65-47D8-AD09-796F8A012DFC}|DS4MTHACK\\DS4MTHACK.csproj|solutionrelative:ds4mthack\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D79143-6C65-47D8-AD09-796F8A012DFC}|DS4MTHACK\\DS4MTHACK.csproj|c:\\users\\mrkan\\source\\repos\\ds4mthack\\ds4mthack\\antidetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D79143-6C65-47D8-AD09-796F8A012DFC}|DS4MTHACK\\DS4MTHACK.csproj|solutionrelative:ds4mthack\\antidetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D79143-6C65-47D8-AD09-796F8A012DFC}|DS4MTHACK\\DS4MTHACK.csproj|c:\\users\\mrkan\\source\\repos\\ds4mthack\\ds4mthack\\fakerinputwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D79143-6C65-47D8-AD09-796F8A012DFC}|DS4MTHACK\\DS4MTHACK.csproj|solutionrelative:ds4mthack\\fakerinputwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D79143-6C65-47D8-AD09-796F8A012DFC}|DS4MTHACK\\DS4MTHACK.csproj|c:\\users\\mrkan\\source\\repos\\ds4mthack\\ds4mthack\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D79143-6C65-47D8-AD09-796F8A012DFC}|DS4MTHACK\\DS4MTHACK.csproj|solutionrelative:ds4mthack\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D79143-6C65-47D8-AD09-796F8A012DFC}|DS4MTHACK\\DS4MTHACK.csproj|c:\\users\\mrkan\\source\\repos\\ds4mthack\\ds4mthack\\inputmasker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D79143-6C65-47D8-AD09-796F8A012DFC}|DS4MTHACK\\DS4MTHACK.csproj|solutionrelative:ds4mthack\\inputmasker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InputMasker.cs",
+              "DocumentMoniker": "C:\\Users\\mrkan\\source\\repos\\DS4MTHACK\\DS4MTHACK\\InputMasker.cs",
+              "RelativeDocumentMoniker": "DS4MTHACK\\InputMasker.cs",
+              "ToolTip": "C:\\Users\\mrkan\\source\\repos\\DS4MTHACK\\DS4MTHACK\\InputMasker.cs",
+              "RelativeToolTip": "DS4MTHACK\\InputMasker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:41:12.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mrkan\\source\\repos\\DS4MTHACK\\DS4MTHACK\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "DS4MTHACK\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\mrkan\\source\\repos\\DS4MTHACK\\DS4MTHACK\\MainForm.Designer.cs",
+              "RelativeToolTip": "DS4MTHACK\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:01:23.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FakerInputWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\mrkan\\source\\repos\\DS4MTHACK\\DS4MTHACK\\FakerInputWrapper.cs",
+              "RelativeDocumentMoniker": "DS4MTHACK\\FakerInputWrapper.cs",
+              "ToolTip": "C:\\Users\\mrkan\\source\\repos\\DS4MTHACK\\DS4MTHACK\\FakerInputWrapper.cs",
+              "RelativeToolTip": "DS4MTHACK\\FakerInputWrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:54:04.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AntiDetection.cs",
+              "DocumentMoniker": "C:\\Users\\mrkan\\source\\repos\\DS4MTHACK\\DS4MTHACK\\AntiDetection.cs",
+              "RelativeDocumentMoniker": "DS4MTHACK\\AntiDetection.cs",
+              "ToolTip": "C:\\Users\\mrkan\\source\\repos\\DS4MTHACK\\DS4MTHACK\\AntiDetection.cs",
+              "RelativeToolTip": "DS4MTHACK\\AntiDetection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:53:43.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\mrkan\\source\\repos\\DS4MTHACK\\DS4MTHACK\\MainForm.cs",
+              "RelativeDocumentMoniker": "DS4MTHACK\\MainForm.cs",
+              "ToolTip": "C:\\Users\\mrkan\\source\\repos\\DS4MTHACK\\DS4MTHACK\\MainForm.cs",
+              "RelativeToolTip": "DS4MTHACK\\MainForm.cs",
+              "ViewState": "AgIAAOUEAAAAAAAAAAAkwEoEAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T04:38:14.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
